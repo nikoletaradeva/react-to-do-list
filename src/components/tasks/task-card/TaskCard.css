@@ -1,0 +1,30 @@
+.single-task {
+    display: inline-flex;
+    padding: 10px;
+    text-align: center;
+    font-weight: unset;
+    font-size: 17px;
+    opacity: 0.9;
+}
+
+
+.bg-tasks {
+    color:#FFFFFF ;
+    background-color: #E76E54;
+    -webkit-animation: random 10s infinite;
+    animation: random 10s infinite;
+}
+
+.description {
+    margin: 15px 15px;
+}
+
+@keyframes  random {
+   0% { background-color: #E76E54 } 
+   30% { background-color: #CD647D; } 
+   50% { background-color: #343A40; } 
+   70% { background-color: #BDA576; } 
+}
+
+
+

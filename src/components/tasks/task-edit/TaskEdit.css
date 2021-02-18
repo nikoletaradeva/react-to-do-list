@@ -1,0 +1,49 @@
+.task-edit-wrapper {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 90vh;
+}
+
+.task-edit-form {
+    display: flex;
+    flex-direction: column;
+    width: 400px;
+    padding: 10px;
+    background-color: #212529;
+    border: 1px solid #212529;
+    border-radius: 10px;
+    color: #FFFFFF;
+    margin-bottom: 30px;
+    opacity: 0.9;
+}
+
+.form-control {
+    opacity: 0.8;;
+}
+
+.form-group textarea:focus {
+    border-color: transparent;
+    box-shadow: none;
+    outline: none;
+}
+
+.form-group select:focus {
+    border-color: transparent;
+    box-shadow: none;
+    outline: none;
+}
+
+
+.bg-color-active {
+    background-color: #D94351;
+}
+
+.bg-color-pending {
+    background-color: #2BA7BA;
+}
+
+.bg-color-done {
+    background-color:#39AB53;
+}
+

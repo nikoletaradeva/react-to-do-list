@@ -1,0 +1,27 @@
+.login-wrapper {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    opacity: 0.9;
+}
+
+.login-form {
+    display: flex;
+    flex-direction: column;
+    width: 400px;
+    padding: 10px;
+    border: 1px solid #212529;
+    border-radius: 10px;
+    background-color: #212529;
+    color: #FFFFFF;
+}
+
+.color-letters {
+    color: #17A2B8;
+}
+
+.color-letters:hover {
+    color: #E76F55;
+    text-decoration: none;
+}

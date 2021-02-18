@@ -1,0 +1,155 @@
+{
+  "users": [
+    {
+      "id": "n98",
+      "isActive": true,
+      "isAdmin": true,
+      "picture": "https://www.inclusivacorretora.com.br/img/smile.png",
+      "age": "22",
+      "name": "Nikoleta Ivanova",
+      "email": "ivanovanikoleta@gmail.com",
+      "password": "niki98"
+    },
+    {
+      "id": "t91",
+      "isActive": true,
+      "isAdmin": false,
+      "picture": "https://cdn.shortpixel.ai/client/q_glossy,ret_img/https://xdcoder.com/wp-content/uploads/2019/01/corporate-person-png-7.png",
+      "age": "29",
+      "name": "Todor Spasov",
+      "email": "spasovtodor@gmail.com",
+      "password": 12345
+    },
+    {
+      "id": "z99",
+      "isActive": true,
+      "isAdmin": true,
+      "picture": "https://www.pngkit.com/png/full/180-1806427_holland-roden-png.png",
+      "age": "21",
+      "name": "Zlatina Paseva",
+      "email": "zlatinapaseva@gmail.com",
+      "password": 12345
+    },
+    {
+      "id": "v88",
+      "isActive": "true",
+      "isAdmin": "false",
+      "picture": "https://greatives.eu/themes/osmosis-corporate/wp-content/uploads/2014/12/person-01.png",
+      "age": "32",
+      "name": "Vasil Georgiev",
+      "email": "vasulgeorgiev@gmail.com",
+      "password": 12345
+    },
+    {
+      "id": "e80",
+      "isActive": false,
+      "isAdmin": true,
+      "picture": "https://img.rawpixel.com/s3fs-private/rawpixel_images/website_content/k-pr-s31-ten-064-job33.png?w=800&dpr=1&fit=default&crop=default&q=65&vib=3&con=3&usm=15&bg=transparent&auto=null&fm=png&ixlib=js-2.2.1&s=6e3ea029390634932f44496e58de1ce6",
+      "age": 23,
+      "name": "Emilia Kirova",
+      "email": "emiliakirova@gmail.com",
+      "password": 12345
+    },
+    {
+      "id": "p94",
+      "isActive": true,
+      "isAdmin": true,
+      "picture": "https://www.pngmart.com/files/3/Man-PNG-Pic.png",
+      "age": 26,
+      "name": "Peter Petrov",
+      "email": "petrovpeter@gmail.com",
+      "password": 12345
+    },
+    {
+      "id": "k98",
+      "isActive": true,
+      "isAdmin": true,
+      "picture": "https://purepng.com/public/uploads/large/businessman-2in.png",
+      "age": "22",
+      "name": "Kiril Mihov",
+      "email": "mihovkiril@gmail.com",
+      "password": "kiril98"
+    },
+    {
+      "id": "i92",
+      "isActive": true,
+      "isAdmin": false,
+      "picture": "https://lh3.googleusercontent.com/proxy/VXIpeQR3sAgajNcSrW_KOKsP70uPDgxDuLYGVB5oWL1e4cZKzdzXS4odXEDmjvs2H4-kM9EsPHJwr8vNf2tGfPR5dUpdbhxeIT8WXaQDxQbIoLG__IrLDIxJbMyEmFjSxsJZjg",
+      "age": "28",
+      "name": "Ivan Ivanov",
+      "email": "ivanovivan@gmail.com",
+      "password": 12345
+    },
+    {
+      "id": "z89",
+      "isActive": true,
+      "isAdmin": true,
+      "picture": "https://www.seekpng.com/png/full/258-2587539_our-long-term-relationship-with-our-customers-is.png",
+      "age": "32",
+      "name": "Vanq Todorova",
+      "email": "todorovavanq@gmail.com",
+      "password": 12345
+    },
+    {
+      "id": "v88",
+      "isActive": "true",
+      "isAdmin": "false",
+      "picture": "https://purepng.com/public/uploads/large/purepng.com-female-studentstudenteducationalinstitutionstudentsuniversity-studentschoolfemale-student-1421526922422ts95d.png",
+      "age": "32",
+      "name": "Viki Georgieva",
+      "email": "vikigeorgieva@gmail.com",
+      "password": 12345
+    },
+    {
+      "name": "Katq Peneva",
+      "age": "36",
+      "email": "katqpeneva@gmail.com",
+      "password": "katq36",
+      "isAdmin": false,
+      "isActive": true,
+      "picture": "https://cdn4.iconfinder.com/data/icons/meBaze-Freebies/512/user.png",
+      "id": "vVoDq4h"
+    }
+  ],
+  "tasks": [
+    {
+      "title": "Planning a class night out",
+      "description": "Students do the task in twos and plan the night. Match them with another pair to discuss their ideas and any similarities and differences.Each pair rehearses presenting their night out. Teacher walks around, helps them if they need it and notes down any language points to be highlighted later.",
+      "authorId": "p94",
+      "authorName": "Peter Petrov",
+      "date": "2020-06-06T05:36:03.588Z",
+      "status": "Active",
+      "id": 6
+    },
+    {
+      "title": "Keeping Track of Cash Flow",
+      "description": "Enter and organize purchasing information in a ledger or database\nEnter and organize information about revenue in a ledger or database\nTrack accounts payable and accounts receivable\nWrite paychecks and manage payroll information",
+      "authorId": "i92",
+      "authorName": "Ivan Ivanov",
+      "date": "2021-01-30T14:00:56.990Z",
+      "аssessment": "7",
+      "status": "Active",
+      "id": 7
+    },
+    {
+      "title": "New Videos",
+      "description": "Due to our upcomming product update we need to create new tutorial videos for our users.",
+      "authorId": "z99",
+      "authorName": "Zlatina Paseva",
+      "date": "2021-01-30T17:51:18.661Z",
+      "status": "Active",
+      "аssessment": "2",
+      "id": 8
+    },
+    {
+      "title": "Write a some pages",
+      "description": "At Public Lab, we use different Pull Request labels like gci-candidate, outreach, first-timers-only, etc. So, the task here is to write a documentation about these labels.",
+      "authorId": "n98",
+      "authorName": "Nikoleta Ivanova",
+      "date": "2021-02-18T11:53:29.622Z",
+      "status": "Pending",
+      "id": 9,
+      "аssessment": "9"
+    }
+  ]
+}
